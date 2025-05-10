@@ -59,6 +59,8 @@ export default function Deadline() {
         {resultDate} days
       </h3>
       <p>67130712 นำดาว ราชเมืองฝาง</p>
+      <p>67130605 พงศธร พิทักษ์วงศ์</p>
+      <p>67230062 พีรวิชญ์ แพงศรี </p>
       {/* <div  className="w-full m-10 h-10 bg-gray-200 rounded-full dark:bg-gray-700">
         <div style={{width:today}} class=" h-10 bg-blue-600 rounded-full dark:bg-rose-500">{today} days</div>
      </div> */}
