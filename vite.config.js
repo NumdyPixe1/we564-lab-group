@@ -7,8 +7,7 @@ import tailwindcss from '@tailwindcss/vite'
    build: {
     outDir: 'build'  // ← เพิ่มตรงนี้!
   },
-  base: '/deadline',
-  
+
 
   
 })
