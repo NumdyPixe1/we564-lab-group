@@ -1,11 +1,10 @@
- import  Deadline  from './components/deadline.jsx'
+import Deadline from "./components/deadline.jsx";
 function App() {
-
   return (
     <>
-      <Deadline/>
+      <Deadline />
     </>
-  )
+  );
 }
 
-export default App
+export default App;
